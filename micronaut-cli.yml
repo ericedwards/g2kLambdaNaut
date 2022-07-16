@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.github.ericedwards.g2kLambdaNaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, aws-lambda, jackson-databind, java, java-application, junit, logback, maven, readme, shade, yaml]
